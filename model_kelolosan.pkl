@@ -1,2 +1,0 @@
-import joblib
-return joblib.load('model_nb.pkl')
